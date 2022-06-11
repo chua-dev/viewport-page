@@ -56,6 +56,7 @@ const Title = styled.h2`
 `;
 const ViewSize = styled.h1`
   font-size: 3em;
+  color: blue;
 `;
 
 const FlexContainer = styled.div``;
