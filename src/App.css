@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Lato&family=Libre+Baskerville&family=Merriweather:wght@700&family=Work+Sans&display=swap");
+
+* {
+  font-family: "Work Sans", sans-serif;
+  color: white;
+}
+
+body {
+  background-color: #4158D0;
+  background-image: linear-gradient(143deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+  width: 100vw;
+  height: 100vh;
+}
